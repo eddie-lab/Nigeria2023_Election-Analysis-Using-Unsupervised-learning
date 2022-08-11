@@ -97,9 +97,9 @@ We found the following resources and people helpful and would like to give credi
     Stackoverflow
     Towards Data Science
     Twitter Data Community
-   Kiprop Amos : [Twitter ](https://twitter.com/AmosKiprop15 - amoskiprop5@gmail.com)
+   Kiprop Amos : [TWITTER](https://twitter.com/AmosKiprop15 - amoskiprop5@gmail.com)
    
-   Esther Ogutu : [Twitter ](https://twitter.com/ogutu_esther - esther.ogutu@gmail.com)
+   Esther Ogutu : [Twitter](https://twitter.com/ogutu_esther - esther.ogutu@gmail.com]
     
 
 
