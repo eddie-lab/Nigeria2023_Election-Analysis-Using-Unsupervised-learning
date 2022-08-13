@@ -105,6 +105,55 @@ We found the following resources and people helpful and would like to give credi
 
 # visualization
 
-# Tweets WORDCLOUD
+# TWEETS WORDCLOUD
 
 ![ScreenShot](./N10.png)
+
+# MOST POPULAR ASPIRANT
+
+This is the most mentioned aspirants in the scrapded tweets,Eventhough many of the aspirants are called by various names we were able to assign those names to thier official office name
+Presidential Aspirant Peter obi has has the highest Trajectory in terms of polarity. Peter obi has the highest numberof positve and negative sentiments towards him than the other aspirants by twitter users.
+
+In terms of mentions , Here is the percentage
+
+![ScreenShot](./aspirant.png)
+
+# MOST POPULAR PARTY
+
+Percentage of how many times a party is being mentioned in tweets between the 7days period
+
+![ScreenShot](./party.png)
+
+# PRESIDENTIAL PREDICTION WITH RESPECTED TO UNDECIDED VOTERS
+By assuming that the positive sentiments a presidential aspirant gets equals to support and the negative sentiments gets equals to support of the opponnent, the following results were obtained IN PERCENTAGE;
+
+![ScreenShot](./presidentialpred.png)
+
+# PRESIDENTIAL PREDICTION WITHOUT UNDEDCIDED VOTERS
+
+![ScreenShot](./presidentpre2.png)
+
+# CONCLUSION
+
+After thorough analysis and scraping of tweets for several days it is visible that Nigeria presidential election is a tough debate on twitter and many users of this media have been ditching out their own personal opinions without holding back
+
+From our analysis , Peter Obi was the most polarized candidate,having the highest number of both positive and negative sentiments
+
+It was also shown from this analyssis that Peter Obi is the most mentioned political figure in the country while Atiku is the least mentioned
+
+From our election prediction results, factoring in neutral voters as undecided voters, it was concluded that a large part of the electorate is still undecided on who to vote for in the forth coming election.
+
+Without the undecided voters, from the analysis, it was concluded that Peter Obi will most likely win the election in the first round with slightly over 43% of the votes.
+
+
+
+# DISCLAIMER
+
+This prediction is made using only sentiments sourced from social media hence is not fully representative of Nigeria's electorate
+
+
+
+
+
+
+
