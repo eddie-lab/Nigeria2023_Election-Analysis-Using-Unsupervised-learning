@@ -18,6 +18,7 @@ Table of Contents
    8. Contributing
    9. Contact
    10. Acknowledgments
+   11. Visualization
 
 # ABOUT THE PROJECT
 
@@ -102,6 +103,8 @@ We found the following resources and people helpful and would like to give credi
    Esther Ogutu : [Twitter](https://twitter.com/ogutu_esther - esther.ogutu@gmail.com]
     
 
+# visualization
 
+# Tweets WORDCLOUD
 
-
+![ScreenShot](./N10.png)
